@@ -15,3 +15,4 @@ if idade >= 18:
 else: 
     print(f"Olá {nome}, você não tem a idade suficiente para acessar.")
 
+print("\n\nFim do programa")
