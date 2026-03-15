@@ -5,12 +5,12 @@ if idade >= 18:
     print(f"Olá {nome}, você tem a idade suficiente.\n\n")
     preferido = int(input("[1] Torta de limão \n[2] Torta de morango \n[3] Torta de abacaxi \n\nQual você prefere: "))
     if preferido == 1:
-        print(f"Legal {nome}, você gosta de Torta de limão")
+        print(f"\nLegal {nome}, você gosta de Torta de limão")
     elif preferido == 2:
-        print(f"Legal {nome}, você gosta de Torta de morango")
+        print(f"\nLegal {nome}, você gosta de Torta de morango")
     elif preferido == 3:
-        print(f"Legal {nome}, você gosta de Torta de abacaxi")
-    else: print(f"Opção inválida {nome}")
+        print(f"\nLegal {nome}, você gosta de Torta de abacaxi")
+    else: print(f"\nOpção inválida {nome}")
         
 else: 
     print(f"Olá {nome}, você não tem a idade suficiente para acessar.")
