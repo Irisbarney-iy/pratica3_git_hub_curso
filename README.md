@@ -10,3 +10,14 @@
 - Ciclo da criação de um repositório e seu push.
 - Criação de Branch e Merge.
 - Mensagens na Issues
+- Criação de Project
+- Tags
+
+### Conteúdo à parte
+- Clonar repositórios
+- Fork
+- Entendendo sobre administração no git-hub
+- Tipos de contas
+- Codespace / GitHub.Dev
+- Markdown
+- Gists
